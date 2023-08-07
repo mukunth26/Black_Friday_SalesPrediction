@@ -2,14 +2,6 @@
 
 This repository contains code for a sales prediction model on Black Friday data as a part of my internship at Codeclause. The goal of this project is to predict the purchase amount of customers based on various features such as gender, age, city category, etc.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Data Preprocessing](#data-preprocessing)
-- [Label Encoding](#label-encoding)
-- [Model Training](#model-training)
-- [Results](#results)
-
 ## Introduction
 
 The Black Friday Sales Prediction project aims to build a model that can predict the purchase amount of customers on Black Friday. The dataset contains various features like gender, age, city category, etc., which will be used as input to the predictive models.
